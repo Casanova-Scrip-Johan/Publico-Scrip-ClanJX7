@@ -32,7 +32,7 @@ setupAntiAFK()
 
 -- Create Main Window
 local window = library:AddWindow("Cazanova hub || by Clan JX7 PUBLICO", {
-    main_color = Color3.fromRGB(144, 0, 194),
+    main_color = Color3.fromRGB(0, 255, 255),
     min_size = Vector2.new(550, 600),
     can_resize = true,
 })
